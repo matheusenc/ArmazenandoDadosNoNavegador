@@ -1,6 +1,6 @@
 # Mochila de Viagem
 
-Esse é o projeto do curso **JavaScript na Web: armazenando dados no navegador** da formação em **JavaScript para Front-end** na [Alura]https://cursos.alura.com.br/course/javascript-web-armazenando-dados-navegador).
+Esse é o projeto do curso **JavaScript na Web: armazenando dados no navegador** da formação em **JavaScript para Front-end** na [Alura](https://cursos.alura.com.br/course/javascript-web-armazenando-dados-navegador).
 
 Foi desenvolvido os seguintes topicos:
 <ul>
