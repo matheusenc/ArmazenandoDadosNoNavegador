@@ -13,6 +13,6 @@ Foi desenvolvido os seguintes topicos:
 </ul>
 
 ## 🎒 Projeto
-A Mochila de viagem é um sistema para a criação de uma lista de itens. Essa lista fica amazenada no LocalStorage do navegador, sendo possivel a permanencia dos .
+A Mochila de viagem é um sistema para a criação de uma lista de itens. Essa lista fica amazenada no LocalStorage do navegador, sendo possivel a permanencia dos dados.
 
 <img src="https://user-images.githubusercontent.com/68551343/208767457-9962dee1-4ce1-41ae-a417-0577127e2e31.png" alt="Mochila de viagem" width="100%">
